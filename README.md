@@ -3,6 +3,9 @@ A brief description of the project
   This project called “Wraith Path” is a first-person shooter game, that represents the implementation of different techniques allowed by UE5. There is about 15 km of playable walkthrough-level, divided into 4 main locations. The project was made as a blank C++ template. Almost whole mechanics and interactions were written in C++ part. Different light-parts such as HUD, animations, effects, etc. were realized via blueprints. The main part of geometry was taken from UE-content library (megascans and free models), the another were made in 3ds Max (including Max Script for some animations). 
  
   For enemies were taken characters from free Paragon-project content, including animations. There are 4 types of enemies, including 1 non-rifle beast enemy. As a model for player character was chosen Wraith character, which mechanics and animations were significantly remade. The weapon arsenal includes 5 types of rifles and 2 types of grenades. The minigun was completely made by self. The other were taken from free-content or borrowed from Paragon characters, significantly remade and adopted according to player kinematics. Also, character has 4 additional abilities: arm power shock wave, hexagonal dome shield, ultimate rocket launcher and ultra-vision. A row of textures and materials were created in UE and PS.
+
+  By the following reference you can find video demonstrations of main techniques, realized in project: 
+  https://drive.google.com/drive/folders/1DYF-xJm63aRaTtvGihGr_tBthqZ2Q0V6
   
 Here is a list of techniques used in current project:
 -	Geometry:
